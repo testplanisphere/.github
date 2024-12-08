@@ -1,6 +1,7 @@
 # This organization will be archived
 
-This organization will be archived in mid-2025. All repositories have been migrated to [@takeyaqa](https://github.com/takeyaqa) who owned this organization.
+> [!IMPORTANT]
+> This organization will be archived in mid-2025. All repositories have been migrated to [@takeyaqa](https://github.com/takeyaqa) who owned this organization.
 
 ## Migrated repositories
 
